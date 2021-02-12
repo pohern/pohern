@@ -2,6 +2,7 @@
 From bar manager to full-stack engineer, I always strive to alleviate the problem and come to the solution in a level-headed manner, working quickly to solve problems in high pressure situations. I strive for autonomy and work life balance. I look forward to using my past experience to help solve the problems of today. 
 
 Skills: 
+<br /> <br />
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>

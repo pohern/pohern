@@ -2,7 +2,9 @@
 From bar manager to full-stack engineer, I always strive to alleviate the problem and come to the solution in a level-headed manner, working quickly to solve problems in high pressure situations. I strive for autonomy and work life balance. I look forward to using my past experience to help solve the problems of today. 
 
 <a href='https://www.patrickohern.page' target="_blank" rel="noopener noreferrer">Check out my portfolio here</a>
-<a href="#" onClick={()=>window.open("https://www.patrickohern.page")}>Portfolio</a>
+
+
+<a href="https://www.patrickohern.page" onClick={()=>window.open("https://www.patrickohern.page")}>Portfolio</a>
 
 Skills: 
 <br /> <br />

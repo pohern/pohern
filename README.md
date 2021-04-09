@@ -4,8 +4,6 @@ From bar manager to full-stack engineer, I always strive to alleviate the proble
 <a href='https://www.patrickohern.page' target="_blank" rel="noopener noreferrer">Check out my portfolio here</a>
 
 
-<a href="https://www.patrickohern.page" onClick={()=>window.open("https://www.patrickohern.page")}>Portfolio</a>
-
 Skills: 
 <br /> <br />
 <img width=50 align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>

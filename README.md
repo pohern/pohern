@@ -22,7 +22,7 @@ Skills:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pohern&show_icons=true&theme=bear) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pohern&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pohern&layout=compact&theme=bear)
 
 
 

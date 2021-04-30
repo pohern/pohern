@@ -20,6 +20,9 @@ Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pohern)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/patrick-ohern//)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pohern&show_icons=true&theme=bear)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pohern&show_icons=true&theme=bear) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
